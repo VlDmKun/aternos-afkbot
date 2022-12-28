@@ -1,7 +1,7 @@
 {
-	"host": "fansofgachi.aternos.me",
-	"port": "62524",
-	"username": "Everlasting_Summer",
+	"host": "Enter your server ip or url",
+	"port": "Enter your server port",
+	"username": "Enter the AFK bot's username you want",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
 		"false : display only necessary logs. (ex: errors on bot & server)"
